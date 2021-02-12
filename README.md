@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=lucas-vinicius27&style=plastic&color=363f5f)
 
 - 🔭 Atualmente trabalho na empresa [DuoSystem](https://www.duosystem.com.br/en/).
-- 🌱 Estou estudando **PHP, PHPUnit, Laravel, JavaScript**.
-- 💬 Pergunte me sobre: **HTML5, CSS3**.
+- 🌱 Estou estudando **PHP, PHPUnit, Laravel, JavaScript, CSS3**.
+- 💬 Pergunte me sobre: **HTML5**.
 ![](https://hit.yhype.me/github/profile?user_id=66655145)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vinicius27&layout=compact&theme=tokyonight" alt="Top Langs"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucas-vinicius27&count_private=true&show_icons=true&theme=tokyonight" alt="Lucas's GitHub stats"></p>
