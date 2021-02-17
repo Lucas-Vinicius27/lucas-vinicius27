@@ -15,10 +15,10 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-vinicius-ferreira-dos-santos-247863186/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/linkedin.svg" alt="lucasvinicius" height="20" width="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.11.0/icons/linkedin.svg" alt="lucasvinicius" height="20" width="20"/>
   </a>
   <a href="https://www.instagram.com/lucas_vinicius277/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/instagram.svg" alt="lucasvinicius" height="20" width="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.11.0/icons/instagram.svg" alt="lucasvinicius" height="20" width="20"/>
   </a>
 </p>
 <!--
