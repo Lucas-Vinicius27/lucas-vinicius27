@@ -8,7 +8,7 @@
 - 💬 Pergunte me sobre: **HTML5, CSS3, PHP**.
 ![](https://hit.yhype.me/github/profile?user_id=66655145)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vinicius27&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vinicius27&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-vinicius27&count_private=true&show_icons=true&theme=tokyonight" alt="Lucas's GitHub stats">
