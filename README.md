@@ -1,5 +1,5 @@
 <h1 align="center">Olá pessoal Bem-Vindo(a) ao meu Perfil! 👋 😄</h1>
-<h3 align="center">Estagiário de Desenvolvimento (Por enquanto 😜) Back-End.</h3>
+<h3 align="center">Analista Programador Jr. Back-End.</h3>
 
 ![](https://komarev.com/ghpvc/?username=lucas-vinicius27&style=plastic&color=363f5f)
 
