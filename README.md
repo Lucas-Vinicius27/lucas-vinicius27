@@ -11,6 +11,7 @@
 ![TS-NODE](https://img.shields.io/twitter/url?color=%233178C6&label=TS%20NODE&logo=TS%20NODE&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fts-node.svg)
 ![REACT](https://img.shields.io/twitter/url?color=%2361DAFB&label=REACT&logo=REACT&logoColor=%2361DAFB&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Freact.svg)
 ![NEXT](https://img.shields.io/twitter/url?color=%23000000&label=NEXT&logo=NEXT.JS&logoColor=%23000000&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnext-dot-js.svg)
+![PYTHON](https://img.shields.io/twitter/url?color=3776AB&label=PYTHON&logo=PYTHON&logoColor=3776AB&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Freact.svg)
 - 💬 Pergunte me sobre:
 ![HTML5](https://img.shields.io/twitter/url?color=%23E34F26&label=HTML5&style=plastic&logo=html5&logoColor=%23E34F26&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fhtml5.svg)
 ![CSS3](https://img.shields.io/twitter/url?color=%231572B6&label=CSS3&logo=CSS3&logoColor=%231572B6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fcss3.svg)
