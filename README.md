@@ -8,7 +8,6 @@
 ![LARAVEL](https://img.shields.io/twitter/url?color=%23FF2D20&label=LARAVEL&logo=LARAVEL&logoColor=%23FF2D20&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Flaravel.svg)
 ![NODE.JS](https://img.shields.io/twitter/url?color=%23339933&label=NODE.JS&logo=NODE.JS&logoColor=%23339933&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnode-dot-js.svg)
 ![TS-NODE](https://img.shields.io/twitter/url?color=%233178C6&label=TS%20NODE&logo=TS%20NODE&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fts-node.svg)
-![TYPESCRIPT](https://img.shields.io/twitter/url?color=%233178C6&label=TYPESCRIPT&logo=TYPESCRIPT&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Ftypescript.svg)
 ![REACT](https://img.shields.io/twitter/url?color=%2361DAFB&label=REACT&logo=REACT&logoColor=%2361DAFB&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Freact.svg)
 ![NEXT](https://img.shields.io/twitter/url?color=%23000000&label=NEXT&logo=NEXT.JS&logoColor=%23000000&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnext-dot-js.svg)
 - 💬 Pergunte me sobre:
@@ -16,7 +15,7 @@
 ![CSS3](https://img.shields.io/twitter/url?color=%231572B6&label=CSS3&logo=CSS3&logoColor=%231572B6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fcss3.svg)
 ![PHP](https://img.shields.io/twitter/url?color=%23777BB4&label=PHP&logo=PHP&logoColor=%23777BB4&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fphp.svg)
 ![JAVASCRIPT](https://img.shields.io/twitter/url?color=%23F7DF1E&label=JAVASCRIPT&logo=JAVASCRIPT&logoColor=%23F7DF1E&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fjavascript.svg)
-![JAVA](https://img.shields.io/twitter/url?color=%23007396&label=JAVA&logo=JAVA&logoColor=%23007396&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fjava.svg)
+![TYPESCRIPT](https://img.shields.io/twitter/url?color=%233178C6&label=TYPESCRIPT&logo=TYPESCRIPT&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Ftypescript.svg)
 ![SQL](https://img.shields.io/twitter/url?color=%23CC2927&label=SQL&logo=MICROSOFT%20SQL%20SERVER&logoColor=%23CC2927&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fmicrosoftsqlserver.svg)
 ![](https://hit.yhype.me/github/profile?user_id=66655145)
 <p align="center">
