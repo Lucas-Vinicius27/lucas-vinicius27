@@ -4,6 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=lucas-vinicius27&style=plastic&color=363f5f)
 
 - 🔭 Atualmente trabalho na empresa [DuoSystem](https://www.duosystem.com.br/en/).
+- 🌱 O site do meu [Portfólio](https://lucassantos.app)
 - 🌱 Estou estudando: PHPUnit
 ![LARAVEL](https://img.shields.io/twitter/url?color=%23FF2D20&label=LARAVEL&logo=LARAVEL&logoColor=%23FF2D20&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Flaravel.svg)
 ![NODE.JS](https://img.shields.io/twitter/url?color=%23339933&label=NODE.JS&logo=NODE.JS&logoColor=%23339933&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnode-dot-js.svg)
