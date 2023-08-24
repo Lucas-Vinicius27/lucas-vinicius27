@@ -1,14 +1,13 @@
 <h1 align="center">Olá pessoal Bem-Vindo(a) ao meu Perfil! 👋 😄</h1>
-<h3 align="center">Analista Programador Jr. Back-End.</h3>
+<h3 align="center">Analista Programador Back-End.</h3>
 
 ![](https://komarev.com/ghpvc/?username=lucas-vinicius27&style=plastic&color=363f5f)
 
-- 🔭 Atualmente trabalho na empresa [DuoSystem](https://www.duosystem.com.br/en/).
+- 🔭 Atualmente trabalho na empresa [Kirvano](https://kirvano.com/).
 - 🌱 O site do meu [Portfólio](https://lucassantos.app)
-- 🌱 Estou estudando: PHPUnit
+- 🌱 Estou estudando: PHPUnit,
+![JESTJS](https://img.shields.io/twitter/url?color=%2387586c&label=JESTJS&logo=jest&logoColor=%2387586c&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fjest.svg)
 ![LARAVEL](https://img.shields.io/twitter/url?color=%23FF2D20&label=LARAVEL&logo=LARAVEL&logoColor=%23FF2D20&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Flaravel.svg)
-![NODE.JS](https://img.shields.io/twitter/url?color=%23339933&label=NODE.JS&logo=NODE.JS&logoColor=%23339933&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnode-dot-js.svg)
-![TS-NODE](https://img.shields.io/twitter/url?color=%233178C6&label=TS%20NODE&logo=TS%20NODE&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fts-node.svg)
 ![REACT](https://img.shields.io/twitter/url?color=%2361DAFB&label=REACT&logo=REACT&logoColor=%2361DAFB&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Freact.svg)
 ![NEXT](https://img.shields.io/twitter/url?color=%23000000&label=NEXT&logo=NEXT.JS&logoColor=%23000000&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnext-dot-js.svg)
 ![PYTHON](https://img.shields.io/twitter/url?color=3776AB&label=PYTHON&logo=PYTHON&logoColor=3776AB&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Freact.svg)
@@ -20,6 +19,8 @@
 ![TYPESCRIPT](https://img.shields.io/twitter/url?color=%233178C6&label=TYPESCRIPT&logo=TYPESCRIPT&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Ftypescript.svg)
 ![SQL](https://img.shields.io/twitter/url?color=%23CC2927&label=SQL&logo=MICROSOFT%20SQL%20SERVER&logoColor=%23CC2927&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fmicrosoftsqlserver.svg)
 ![](https://hit.yhype.me/github/profile?user_id=66655145)
+![NODE.JS](https://img.shields.io/twitter/url?color=%23339933&label=NODE.JS&logo=NODE.JS&logoColor=%23339933&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fnode-dot-js.svg)
+![TS-NODE](https://img.shields.io/twitter/url?color=%233178C6&label=TS%20NODE&logo=TS%20NODE&logoColor=%233178C6&style=plastic&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%404.14.0%2Ficons%2Fts-node.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-vinicius27&layout=compact&theme=tokyonight&langs_count=10" alt="Top Langs">
 </p>
